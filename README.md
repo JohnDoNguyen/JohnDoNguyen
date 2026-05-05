@@ -1,4 +1,4 @@
-# Hello, I'm John Nguyen 👋  
+# Hello, I'm John Nguyen   
 
 [LinkedIn](https://www.linkedin.com/in/johndonguyen)
 
