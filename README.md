@@ -32,11 +32,11 @@ Seeking a cybersecurity role where I can apply experience in **threat monitoring
 
 | Area | Experience |
 |------|-----------|
-| SIEM Monitoring & Log Analysis | University of New Mexico |
+| SIEM Monitoring & Log Analysis | Academic + Labs |
 | Network Traffic Analysis | Academic + Labs |
-| Risk & Vulnerability Management | University of New Mexico |
-| Incident Detection & Response | University of New Mexico |
-| Identity & Access Management | University of New Mexico |
+| Risk & Vulnerability Management | University of New Mexico + Labs |
+| Incident Detection & Response | University of New Mexico + Labs |
+| Identity & Access Management | University of New Mexico + Labs |
 | Scripting & Automation | Academic Projects |
 
 ---
