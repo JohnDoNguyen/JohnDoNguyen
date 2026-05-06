@@ -37,7 +37,7 @@ Seeking a cybersecurity role where I can apply experience in **threat monitoring
 | Risk & Vulnerability Management | University of New Mexico + Labs |
 | Incident Detection & Response | University of New Mexico + Labs |
 | Identity & Access Management | University of New Mexico + Labs |
-| Scripting & Automation | Academic Projects |
+| Scripting & Automation | Academic Projects + Labs |
 
 ---
 
